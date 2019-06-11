@@ -21,6 +21,7 @@ namespace ExtensionsClassesAndMethods
         static void Main(string[] args)
         {
             string s = "";
+             // Use of the Extensions method
             s.WriteJSON("");
 
             s.BuildUrl();
